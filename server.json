@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "golf.morris/morris",
+  "title": "Morris Golf",
+  "description": "Your golf caddie in your AI: handicap, rounds, swings and practice. Saves what you tell it and logs cards you approve.",
+  "version": "2.0.0",
+  "websiteUrl": "https://morris.golf/en/mcp",
+  "repository": {
+    "url": "https://github.com/badgie-org/morris-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://morris.golf/api/mcp"
+    }
+  ]
+}
