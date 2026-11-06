@@ -3,7 +3,7 @@
   "name": "golf.morris/morris",
   "title": "Morris Golf",
   "description": "Your golf caddie in your AI: reads your rounds, handicap and swings, and saves what you tell it.",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "websiteUrl": "https://morris.golf/en/mcp",
   "repository": {
     "url": "https://github.com/badgie-org/morris-mcp",
